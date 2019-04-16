@@ -12,13 +12,14 @@ Generamos los numeros Uniformes del 1 al 32000 en el archivo llamado **numeros_r
 
 ## ¿Que puede decir sobre ambas graficas?
 
- Grafica de Numeros Aleatorios 
+Grafica de Numeros Aleatorios
+ 
 ![Captura de Pantalla 2019-04-16 a la(s) 11 09 11 a  m](https://user-images.githubusercontent.com/39422672/56228058-82300480-603c-11e9-8ac0-bc52c1991df1.png)
+
 
  Grafica de Numeros Aleatorios Normales 
 
-
-
+![Captura de Pantalla 2019-04-16 a la(s) 11 33 59 a  m](https://user-images.githubusercontent.com/39422672/56228271-084c4b00-603d-11e9-9e59-18e24986e817.png)
 
 
 Considerado lo dado en clases los números aleatorios que brinda la librería de numpy.ramdon utiliza el generador de números aleatorios del Sistema operativo generando una grafica muy distinta ha la que se obtiene utilizando numpy.random.normal lo que permite ver una grafica gaussiana debido a que se codifico el modelo pare ello.
