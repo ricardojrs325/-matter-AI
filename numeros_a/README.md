@@ -13,11 +13,11 @@ Generamos los numeros Uniformes del 1 al 32000 en el archivo llamado **numeros_r
 ## ¿Que puede decir sobre ambas graficas?
 
 Grafica de Numeros Aleatorios
- 
+
 ![Captura de Pantalla 2019-04-16 a la(s) 11 09 11 a  m](https://user-images.githubusercontent.com/39422672/56228058-82300480-603c-11e9-8ac0-bc52c1991df1.png)
 
 
- Grafica de Numeros Aleatorios Normales 
+ Grafica de Numeros Aleatorios Normales
 
 ![Captura de Pantalla 2019-04-16 a la(s) 11 33 59 a  m](https://user-images.githubusercontent.com/39422672/56228271-084c4b00-603d-11e9-9e59-18e24986e817.png)
 
@@ -31,3 +31,4 @@ En otras palabras ambas graficas tienen el mismo rango pero distintos datos inte
 1. Un numero se puede repetir y sigue siendo aleatorio.
 2. los números aleatorio solo existe en la naturaleza(solo se genera con fuerza reales)
 3. Los numeros aleatoriedad uniforme generan una campana de gaus
+3. afsfad
