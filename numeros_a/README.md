@@ -28,6 +28,6 @@ En otras palabras ambas graficas tienen el mismo rango pero distintos datos inte
 
 ## ¿Como es el comportamiento de los numeros aleatorios?
 
-Un numero se puede repetir y sigue siendo aleatorio.
-los números aleatorio solo existe en la naturaleza(solo se genera con fuerza reales)
-Los numeros aleatoriedad uniforme generan una campana de gaus
+1. Un numero se puede repetir y sigue siendo aleatorio.
+2. los números aleatorio solo existe en la naturaleza(solo se genera con fuerza reales)
+3. Los numeros aleatoriedad uniforme generan una campana de gaus
