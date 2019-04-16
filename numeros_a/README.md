@@ -12,7 +12,10 @@ Generamos los numeros Uniformes del 1 al 32000 en el archivo llamado **numeros_r
 
 ## ¿Que puede decir sobre ambas graficas?
 
+ Grafica de Numeros Aleatorios 
+![Captura de Pantalla 2019-04-16 a la(s) 11 09 11 a  m](https://user-images.githubusercontent.com/39422672/56228058-82300480-603c-11e9-8ac0-bc52c1991df1.png)
 
+ Grafica de Numeros Aleatorios Normales 
 
 
 
