@@ -31,4 +31,4 @@ En otras palabras ambas graficas tienen el mismo rango pero distintos datos inte
 1. Un numero se puede repetir y sigue siendo aleatorio.
 2. los números aleatorio solo existe en la naturaleza(solo se genera con fuerza reales)
 3. Los numeros aleatoriedad uniforme generan una campana de gaus
-3. afsfad
+
